@@ -1,0 +1,11 @@
+{
+  "configurations": [
+    {
+      "name": "C#: ConsoleApp.UserInputDemo",
+      "type": "dotnet",
+      "request": "launch",
+      "projectPath": "${workspaceFolder}\\ConsoleApp.UserInputDemo\\ConsoleApp.UserInputDemo.csproj",
+      "launchConfigurationId": "TargetFramework=;ConsoleApp.UserInputDemo"
+    }
+  ]
+}
