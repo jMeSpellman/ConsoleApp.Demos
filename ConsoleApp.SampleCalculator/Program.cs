@@ -24,7 +24,6 @@ while (choice != -1)
             break;
         }
 
-
         Console.WriteLine("Please Enter the first number:");
         num1 = Convert.ToInt32(Console.ReadLine());
 
