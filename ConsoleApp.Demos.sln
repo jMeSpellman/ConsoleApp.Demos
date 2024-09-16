@@ -23,9 +23,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.DateTimeManipula
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.Methods", "ConsoleApp.Methods\ConsoleApp.Methods.csproj", "{F7FE6BB7-B892-4C33-9779-D7407F3CD7E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Arrays", "ConsoleApp.Arrays\ConsoleApp.Arrays.csproj", "{B2EFB475-43ED-4BB0-8913-01110A77AB8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.Arrays", "ConsoleApp.Arrays\ConsoleApp.Arrays.csproj", "{B2EFB475-43ED-4BB0-8913-01110A77AB8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.Lists", "ConsoleApp.Lists\ConsoleApp.Lists.csproj", "{6B3736D2-F563-49F9-8C86-77FB17FE352E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.Lists", "ConsoleApp.Lists\ConsoleApp.Lists.csproj", "{6B3736D2-F563-49F9-8C86-77FB17FE352E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp.ClassDemo", "ConsoleApp.ClassDemo\ConsoleApp.ClassDemo.csproj", "{549E5C79-AC7A-46FE-82DC-0FD53C5B47D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -81,6 +83,10 @@ Global
 		{6B3736D2-F563-49F9-8C86-77FB17FE352E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6B3736D2-F563-49F9-8C86-77FB17FE352E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6B3736D2-F563-49F9-8C86-77FB17FE352E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{549E5C79-AC7A-46FE-82DC-0FD53C5B47D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{549E5C79-AC7A-46FE-82DC-0FD53C5B47D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{549E5C79-AC7A-46FE-82DC-0FD53C5B47D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{549E5C79-AC7A-46FE-82DC-0FD53C5B47D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
